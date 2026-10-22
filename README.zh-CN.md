@@ -22,8 +22,8 @@
 |---|---|
 | [resolve-agent](https://github.com/ai-guru-global/resolve-agent) | 基于 AgentScope 的生产级产品支持智能体平台：按故障特征在 FTA 故障树、Wiki 知识库、技能与代码分析之间智能路由，已落地 432 个场景 |
 | [agent-up](https://github.com/ai-guru-global/agent-up) | Agent 配置全生命周期管理：编辑、审批发布、效果追踪到回滚的完整闭环，用户反馈经 AI 归因自动转化为配置变更建议 |
-| [docsy](https://github.com/standup-coder/docsy) | 面向 Agent 时代的文档平台：把 Markdown 重构为机器可解析、可校验的研究包，14 条 Linter 规则加健康评分，实测撑住 21,000 篇文档的大仓库 |
-| [sokr](https://github.com/standup-coder/sokr) | 运维团队的 OKR 与复盘沉淀工具：把故障复盘转化成可毕业的团队技能资产，纯浏览器运行零部署 |
+| docsy（私有） | 面向 Agent 时代的文档平台：把 Markdown 重构为机器可解析、可校验的研究包，14 条 Linter 规则加健康评分，实测撑住 21,000 篇文档的大仓库 |
+| sokr（私有） | 运维团队的 OKR 与复盘沉淀工具：把故障复盘转化成可毕业的团队技能资产，纯浏览器运行零部署 |
 | [mcp-database](https://github.com/standup-coder/mcp-database) | 自托管 MCP Server 统一框架（mcp4coder）：37 个 Server、200 多个工具收敛进一套基类，新增一个 Server 只需实现两个方法 |
 | [skills-database](https://github.com/standup-coder/skills-database) | 职业技能与 Skills 技能融合平台：455 条技能覆盖 27 个职业角色，来源可溯，单文件离线可浏览 |
 

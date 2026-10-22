@@ -22,8 +22,8 @@ By day I keep cloud-native infrastructure alive. On the side I build tools and k
 |---|---|
 | [resolve-agent](https://github.com/ai-guru-global/resolve-agent) | Production-grade support-agent platform on AgentScope: routes by failure signature across FTA fault trees, wiki KBs, skills and code analysis; 432 scenarios live |
 | [agent-up](https://github.com/ai-guru-global/agent-up) | Full lifecycle for agent configs: edit, approve, release, track, rollback — user feedback is auto-attributed into config-change suggestions |
-| [docsy](https://github.com/standup-coder/docsy) | Docs platform for the agent era: Markdown refactored into machine-checkable research packs, 14 linter rules, 0–100 health score; proven on a 21k-doc repo |
-| [sokr](https://github.com/standup-coder/sokr) | OKR + postmortem tool for ops teams: turns incident reviews into graduable team skill assets; zero-deploy, runs in the browser |
+| docsy *(private)* | Docs platform for the agent era: Markdown refactored into machine-checkable research packs, 14 linter rules, 0–100 health score; proven on a 21k-doc repo |
+| sokr *(private)* | OKR + postmortem tool for ops teams: turns incident reviews into graduable team skill assets; zero-deploy, runs in the browser |
 | [mcp-database](https://github.com/standup-coder/mcp-database) | Self-hosted MCP server framework (mcp4coder): 37 servers and 200+ tools on one base class — a new server takes two methods |
 | [skills-database](https://github.com/standup-coder/skills-database) | 455 job-competency skills across 27 roles, every source traceable, browsable offline from a single file |
 
