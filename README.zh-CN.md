@@ -2,7 +2,7 @@
 
 # 曹亚仑 · Allen Galler
 
-阿里云 SRE，坐标深圳，2010 年注册 GitHub。
+阿里云 SRE，坐标深圳。2010 年注册 GitHub，至今 700+ 个公开仓库、20+ 个组织。
 
 白天保障云原生基础设施的稳定性，业余时间都在做一个长期实验：把运维经验变成工具和知识库，人能读，Agent 也能直接拿去当 RAG 语料。
 
@@ -49,15 +49,15 @@
 | [fde-scope](https://github.com/ai-guru-global/fde-scope) | FDE 前线部署工程师的现场操作系统：4 个阶段、18 个环节、10 道代码级门禁，其中 7 道来自 FAT、ISO 13849、CE |
 | [repo-database](https://github.com/allengaller/repo-database) | FDE 的仓库兵器库。每月扫描 1,000 多个仓库，沉淀 115 篇结构化档案，每篇都有 CI 门禁把关 |
 
-其余 100+ 仓库、20+ 组织的完整索引：[allengaller.github.io/repos](https://allengaller.github.io/repos/)
+其余 700+ 个公开仓库的完整索引：[allengaller.github.io/repos](https://allengaller.github.io/repos/)
 
 ## 其他地方
 
 - [allengaller.github.io](https://allengaller.github.io) —— 大本营
-- [项目](https://allengaller.github.io/projects/) · [仓库索引](https://allengaller.github.io/repos/) · [链接](https://allengaller.github.io/topic/links/)
+- [项目](https://allengaller.github.io/projects/) · [仓库索引](https://allengaller.github.io/repos/) · [链接](https://allengaller.github.io/topic/links/) · [RSS](https://allengaller.github.io/feed.xml)
 
 ## 聊聊
 
-生产环境里的 Agent、Kubernetes 故障分析、GEO，这些话题都欢迎交流。项目相关的问题直接在对应仓库开 Issue，我都会看。合作上比较对口的：要真正上生产的 Agent / RAG / MCP / CLI 工具，以及把零散文档沉淀成持续产生价值的知识库。
+生产环境里的 Agent、Kubernetes 故障分析、GEO，这些话题都欢迎交流。项目相关的问题直接在对应仓库开 Issue，我都会看。公开仓库都欢迎 PR；如果哪个项目帮你省了时间，给它点个 star 就是最好的反馈。合作上比较对口的：要真正上生产的 Agent / RAG / MCP / CLI 工具，以及把零散文档沉淀成持续产生价值的知识库。
 
 <sub>© 曹亚仑 · 深圳</sub>
