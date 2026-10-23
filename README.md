@@ -2,7 +2,7 @@
 
 # Allen Galler · 曹亚仑
 
-SRE at Alibaba Cloud, based in Shenzhen. On GitHub since 2010.
+SRE at Alibaba Cloud, based in Shenzhen. On GitHub since 2010, with 700+ public repos across 20+ orgs.
 
 By day I keep cloud-native infrastructure stable. The rest of my time goes into one long experiment: turning ops experience into tools and knowledge bases that people can read and agents can consume directly as RAG corpora.
 
@@ -49,15 +49,15 @@ Some of the numbers behind that: 4,750 production-ops documents in a single know
 | [fde-scope](https://github.com/ai-guru-global/fde-scope) | A field OS for forward-deployed engineers: 4 phases, 18 steps, 10 code-level gates, 7 of them from FAT, ISO 13849 and CE |
 | [repo-database](https://github.com/allengaller/repo-database) | A curated arsenal for FDEs. 1,000+ repos scanned monthly, 115 structured dossiers kept, every entry CI-gated |
 
-Everything else (100+ repos across 20+ orgs): [allengaller.github.io/repos](https://allengaller.github.io/repos/)
+The other 700+ repos are indexed at [allengaller.github.io/repos](https://allengaller.github.io/repos/).
 
 ## Elsewhere
 
 - [allengaller.github.io](https://allengaller.github.io) — home base
-- [Projects](https://allengaller.github.io/projects/) · [Repos](https://allengaller.github.io/repos/) · [Links](https://allengaller.github.io/topic/links/)
+- [Projects](https://allengaller.github.io/projects/) · [Repos](https://allengaller.github.io/repos/) · [Links](https://allengaller.github.io/topic/links/) · [RSS](https://allengaller.github.io/feed.xml)
 
 ## Talk to me
 
-Always up for conversations about agents in production, Kubernetes failure analysis, or GEO. For anything project-specific, open an Issue on that repo; I read them all. Collaboration-wise, the best fits are Agent / RAG / MCP / CLI tools that have to survive production, and turning scattered docs into knowledge bases that keep paying off.
+Always up for conversations about agents in production, Kubernetes failure analysis, or GEO. For anything project-specific, open an Issue on that repo; I read them all. PRs are welcome on the public repos, and if something here saved you time, a star on that repo is the best way to let me know. Collaboration-wise, the best fits are Agent / RAG / MCP / CLI tools that have to survive production, and turning scattered docs into knowledge bases that keep paying off.
 
 <sub>© Allen Galler · Shenzhen</sub>
